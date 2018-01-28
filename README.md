@@ -1,5 +1,5 @@
 1. make sure all the modules are open in right pane.
-2. copy the cha[ter generator from the resource folder into the console of the browser.
+2. copy the chapter generator script from js file in the resource folder into the console of the browser.
 3. Run and wait for the program to end.
 4. If there was any error then retry.(because error handling not done)
 5. after the program ends copy the array in the log.
