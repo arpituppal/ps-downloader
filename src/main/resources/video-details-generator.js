@@ -40,7 +40,7 @@ function addUnderscores(name){
 						lectures[j].click();
 						getVideoUrl(name);
 						next()
-					},5000);
+					},3000);
 				}) ;
 		}
     }
