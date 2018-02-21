@@ -12,8 +12,8 @@ public class FileReader {
 
 	public static void main(String[] args) {
 		try {
-			List<String> lines = Files.readAllLines(Paths.get("/Users/r0y000t/Desktop/toDownload.txt"));
-			String rootDir = "/Users/r0y000t/Downloads/lectures/"+lines.get(0)+"/";
+			List<String> lines = Files.readAllLines(Paths.get("/Users/a0u000q/Desktop/script.txt"));
+			String rootDir = "/Users/a0u000q/Desktop/"+lines.get(0)+"/";
 			for (int i = 1; i < lines.size(); i++) {
 				String line = lines.get(i);
 				if(line.length()<3)
